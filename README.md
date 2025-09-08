@@ -1,5 +1,6 @@
 # T-cnicas-de-Procesamiento-del-habla-
 Repositorio de la materia 🎙️Técnicas de Procesamiento del Habla🔊 
+
 📚 Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial- IFTS 24 🏫
 
 ✅ Este repositorio reúne prácticas y proyectos enfocados en técnicas de procesamiento del lenguaje natural (PLN) y Deep Learning.
