@@ -16,8 +16,7 @@ En esta carpeta encontrarás el notebook de **LangExtract**, una librería open 
 ## 🌟 Características
 
 - Precisión y trazabilidad (“source grounding”).
-- Fácil de usar y sin registro.
-- Ejemplo destacado en salud: extracción en reportes médicos 🏥.
+- Fácil de usar y sin registro. 🏥.
 
 ## 🔗 Recursos útiles
 
@@ -27,4 +26,3 @@ En esta carpeta encontrarás el notebook de **LangExtract**, una librería open 
 
 ---
 
-¿Quieres añadir un ejemplo de uso o necesitas que lo adapte a otro idioma?
