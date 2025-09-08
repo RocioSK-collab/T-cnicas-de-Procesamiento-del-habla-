@@ -19,7 +19,6 @@ En esta carpeta encontrarás el notebook de **LangExtract**, una librería open 
 ## 🔗 Recursos útiles
 
 - [Sitio oficial](https://langextract.io/)
-- [Repositorio en GitHub](https://github.com/google/langextract)
 - [Blog oficial de Google](https://developers.googleblog.com/en/introducing-langextract-a-gemini-powered-information-extraction-library/)
 
 ---
