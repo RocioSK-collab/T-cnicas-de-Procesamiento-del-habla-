@@ -1,5 +1,3 @@
-¡Por supuesto! Aquí tienes un README resumido, en markdown y con emojis, para el notebook de LangExtract:
-
 ---
 
 # 🧠 LangExtract: Extracción de Información con IA Gemini
