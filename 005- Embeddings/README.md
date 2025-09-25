@@ -1,7 +1,3 @@
-Aquí tienes un resumen en formato README para la carpeta `005- Embeddings`, teniendo en cuenta los archivos cargados y usando markdown con emojis:
-
----
-
 # 📦 005- Embeddings
 
 Esta carpeta reúne materiales y ejercicios sobre el uso de embeddings en procesamiento del lenguaje natural. Los notebooks cubren desde el preprocesamiento hasta la integración y comparación de técnicas.
