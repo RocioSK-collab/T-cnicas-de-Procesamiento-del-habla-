@@ -1,7 +1,3 @@
-Aquí tienes una versión mejorada y formateada del README, siguiendo buenas prácticas de presentación en GitHub y utilizando títulos, listas y emojis para mejorar la legibilidad:
-
----
-
 # 📚 Análisis de cuentos de Borges: La noción de infinito (1941-1985)
 
 ## 🗂️ Descripción del corpus
@@ -66,5 +62,3 @@ He elegido este corpus porque:
   - matplotlib
 
 ---
-
-¿Quieres que adapte o expanda alguna sección específica?
