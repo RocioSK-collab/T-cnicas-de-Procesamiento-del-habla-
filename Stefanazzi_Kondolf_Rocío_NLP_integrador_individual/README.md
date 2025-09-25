@@ -17,7 +17,7 @@
 He elegido este corpus porque:
 
 - Es una de las opciones propuestas que más me interesó.
-- Ya leí algunos de los cuentos, lo que facilita la investigación con Procesamiento de Lenguaje Natural (PLN) 🤖.
+- Ya leí algunos de los cuentos, lo que facilita la investigación con Procesamiento de Lenguaje Natural (PLN)🤖.
 - Borges es un autor ampliamente estudiado, lo que permite apoyarse en investigaciones previas 📖.
 - Los textos seleccionados son de acceso relativamente sencillo.
 
