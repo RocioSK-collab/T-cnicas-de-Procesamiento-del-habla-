@@ -1,4 +1,4 @@
-Sistema RAG para consultas bibliográficas
+#Sistema RAG para consultas bibliográficas
 Descripción
 Mi sistema RAG permite que docentes de IPC puedan chequear información, parafrasear ideas, buscar información determinada, comparar autores consultando información del manual de lógica, filosofía e historia de la ciencia titulado Desenredando la ciencia (Buacar, Editorial Eudeba, 2022) mediante búsqueda semántica con ChromaDB y generación con Gemini.
 Desarrollado como Trabajo Integrador N°2 para la materia Técnicas de Procesamiento del Habla (IFTS 24).
