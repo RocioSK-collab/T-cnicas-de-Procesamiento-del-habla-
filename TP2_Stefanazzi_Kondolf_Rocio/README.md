@@ -174,7 +174,7 @@ Gemini model: models/gemini-2.5-flash (usa GEMINI_API_KEY)
 
 ### Prerrequisitos
 
-- Python 3.12.12 +
+- Python 3 +
 - API key correspondiente
   
 
