@@ -97,7 +97,7 @@ pip install -r requirements.txt
 
 bash
 pip install langchain langchain-google-genai langchain-chroma chromadb sentence-transformers pypdf -q
-# Dependencias adicionales que aparecen en el notebook (opcional / según necesidad)
+Dependencias adicionales que aparecen en el notebook (opcional / según necesidad)
 pip install -U langchain-community -q
 pip install langchain_community -q
 Nota: el notebook muestra mensajes de posibles conflictos entre versiones de paquetes (por ejemplo entre langchain y langchain-core). Si aparecen errores, crea un requirements.txt con versiones fijadas o instala en un entorno limpio.
@@ -105,13 +105,13 @@ Nota: el notebook muestra mensajes de posibles conflictos entre versiones de paq
 4) Configurar variables de entorno (si aplica):
 
 bash
-# Crear archivo .env con:
+Crear archivo .env con:
 GEMINI_API_KEY=tu_api_key
 
-# O exportarla temporalmente en Linux/Mac:
+O exportarla temporalmente en Linux/Mac:
 export GEMINI_API_KEY=tu_api_key
 
-# En Windows PowerShell:
+En Windows PowerShell:
 setx GEMINI_API_KEY "tu_api_key"
 Notas importantes extraídas del notebook:
 
