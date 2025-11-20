@@ -124,15 +124,15 @@ Solo la generación final usa la API de Gemini; los embeddings se calculan local
 - Opciones para procesar:
   *Ejecutar el notebook interactivo (recomendado para validar paso a paso):
 
-    bash
-    jupyter notebook "TP_FINAL_NLP_ (5).ipynb"
-    # ó
-    jupyter lab
+  bash
+  jupyter notebook "TP_FINAL_NLP_ (5).ipynb"
+     ó
+  jupyter lab
 
   *Ejecutar el notebook por línea de comando (ejecuta todas las celdas):
 
   bash
-    jupyter nbconvert --to notebook --execute "TP_FINAL_NLP_ (5).ipynb" --ExecutePreprocessor.timeout=600 --output         executed.ipynb
+  jupyter nbconvert --to notebook --execute "TP_FINAL_NLP_ (5).ipynb" --ExecutePreprocessor.timeout=600 --output         executed.ipynb
 
 Si prefieres automatizar con un script (ingest_documents.py), implementa en ese script los pasos del notebook:
 cargar PDF con PyPDFLoader (langchain.document_loaders), dividir con RecursiveCharacterTextSplitter (chunk_size=500, chunk_overlap=50), calcular embeddings locales (modelo intfloat/multilingual-e5-large), crear/guardar Chroma DB: Chroma.from_documents(..., persist_directory="./chroma_db").
